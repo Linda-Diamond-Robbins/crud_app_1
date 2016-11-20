@@ -14,10 +14,10 @@ end
 # if - index
 # new - nervy
 # create - create
-# something - show
-# exceptional - edit
-# unless - update
-# dumb - destroy
+# show - something 
+# edit - exceptional 
+# update - unless 
+# delete - dumb 
 
 
 
